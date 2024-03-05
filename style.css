@@ -42,6 +42,17 @@ h1{
     border-radius: 5px;
 }
 
+.container2{
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    line-height: 50px;
+    
+}
+
 .button1{
     padding: 11px;
     margin-left: 30px;
@@ -62,7 +73,6 @@ h1{
 
 h2{
     padding-top: 20px;
-    padding-bottom: 10px;
 }
 
 .check{
@@ -73,10 +83,38 @@ h2{
     margin-right: 10px;
 }
 
+.deny{
+    padding: 5px;
+    border: 1px solid red;
+    border-radius: 100px;
+    color: red;
+    margin-right: 10px;
+}
+
 .tag{
     font-size: 10px;
     background-color: blue;
     color: white;
-    border-radius: 10px;
+    border-radius: 12px;
     padding: 10px;
+}
+
+.purple{
+    background-color: lightpink;
+}
+
+.green{
+    background-color: lightgreen;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.pink{
+    background-color: purple;
+}
+
+.yellow{
+    background-color: yellow;
 }
